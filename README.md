@@ -12,8 +12,8 @@ cd ndstream
 
 ## Usage
 - Syntax:</br>
-`ndstream "<what you want to watch>`
-`ndstream -d "<what you want to watch>"`
+`ndstream "<what you want to watch>`       <-- for streaming </br>
+`ndstream -d "<what you want to watch>"`   <-- for downloading </br>
 </br>
 
 - Examples: </br>
