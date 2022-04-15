@@ -35,8 +35,7 @@ cd ndstream
 
 ## Common Issues
 If nothing is found either the script didn't find anything or the the domain name was chaned
-- If the domain name was changed
+- If the domain name was changed</br>
 Find the current one and replace the one in the config
-- If the script didn't find anything
+- If the script didn't find anything </br>
 Try searching something else or reformulate your query
-- 
