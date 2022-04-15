@@ -5,7 +5,7 @@
 #   /////////////////
 
 #get configs
-source ~/.ndos/ndstream/ndstream.config
+source $HOME/.ndos/ndstream/ndstream.config
 player=$mediaPlayer
 url=$url
 path=$path
