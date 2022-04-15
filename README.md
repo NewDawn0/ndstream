@@ -10,11 +10,11 @@ cd ndstream
 ```
 </br>
 ## Usage
-- Syntax:
+- Syntax:</br>
   `ndstream "<what you want to watch>"`      <-- for streaming</br>
-   `ndstream -d "<what you want to watch>"`   <-- for downloading</br>
+  `ndstream -d "<what you want to watch>"`   <-- for downloading</br>
   </br>
-- Examples:
+- Examples:</br>
   `ndstream "the dark knight rises"` </br>
   `ndstream -d "the dark knight rises"` </br>
    </br>
