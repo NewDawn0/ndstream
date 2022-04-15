@@ -1,2 +1,30 @@
 # ndstream
 A cli tool for streaming all kinds of stuff
+ </br>
+
+## Installation
+```
+git clone https://github.com/NewDawn0/ndstream.git
+cd ndstream
+./install.sh
+```
+</br>
+## Usage
+- Syntax:
+  `ndstream "<what you want to watch>"`</br>      <-- for streaming
+   `ndstream -d "<what you want to watch>"`</br>   <-- for downloading
+  </br>
+- Examples:
+  `ndstream "the dark knight rises"` </br>
+  `ndstream -d "the dark knight rises"` </br>
+   </br>
+  
+## Additional Info
+- Downloading
+  The download location is in the config file
+
+- Dependencies
+  - node
+  - npm
+  - curl
+  - vlc or mpv
