@@ -9,15 +9,16 @@ cd ndstream
 ./install.sh
 ```
 </br>
+
 ## Usage
 - Syntax:</br>
 `ndstream "<what you want to watch>`
 `ndstream -d "<what you want to watch>"`
- </br>
+</br>
 - Examples:</br>
 `ndstream "the dark knight rises"` </br>
 `ndstream -d "the dark knight rises"` </br>
-   </br>
+</br>
   
 ## Additional Info
 - Downloading</br>
