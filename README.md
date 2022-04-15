@@ -11,8 +11,8 @@ cd ndstream
 </br>
 ## Usage
 - Syntax:
-  `ndstream "<what you want to watch>"`</br>      <-- for streaming
-   `ndstream -d "<what you want to watch>"`</br>   <-- for downloading
+  `ndstream "<what you want to watch>"`      <-- for streaming</br>
+   `ndstream -d "<what you want to watch>"`   <-- for downloading</br>
   </br>
 - Examples:
   `ndstream "the dark knight rises"` </br>
@@ -20,7 +20,7 @@ cd ndstream
    </br>
   
 ## Additional Info
-- Downloading
+- Downloading</br>
   The download location is in the config file
 
 - Dependencies
