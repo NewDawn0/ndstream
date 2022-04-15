@@ -29,4 +29,6 @@ cd ndstream
   - node
   - npm
   - curl
+  - grep
   - vlc or mpv
+  - webtorrent      -> install with npm (NodeJS)
