@@ -32,3 +32,11 @@ cd ndstream
   - grep
   - vlc or mpv
   - webtorrent      -> install with npm (NodeJS)
+
+## Common Issues
+If nothing is found either the script didn't find anything or the the domain name was chaned
+- If the domain name was changed
+Find the current one and replace the one in the config
+- If the script didn't find anything
+Try searching something else or reformulate your query
+- 
